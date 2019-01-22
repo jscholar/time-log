@@ -1,0 +1,19 @@
+{
+  "name": "time-log",
+  "version": "1.0.0",
+  "description": "Log your time spent on activities",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jscholar/time-log.git"
+  },
+  "author": "Jin Cai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jscholar/time-log/issues"
+  },
+  "homepage": "https://github.com/jscholar/time-log#readme"
+}
